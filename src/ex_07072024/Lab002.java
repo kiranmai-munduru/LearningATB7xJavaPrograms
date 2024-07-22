@@ -4,10 +4,11 @@ public class Lab002 {
     public static void main(String[] args) {
         System.out.println("Hello Kiranmai");
         //Single line comment
-        /** multiple lines of comments
+
+        /* multiple lines of comments
         second line
         third line
-         **/
+         */
 
     }
 }
